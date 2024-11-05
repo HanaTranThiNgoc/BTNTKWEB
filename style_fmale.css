@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: white;
+
+}
+
+.top_fmale img {
+    width: 100%;
+    height: 750px;
+    object-fit: cover;
+
+}
+
+.box {
+    float: left;
+    text-align: center;
+
+    width: 25%;
+    border: 0.5px solid black;
+
+    /* THÊM */
+    height: 500px;
+}
+
+.img img {
+    width: 100%;
+    height: 450px;
+    object-fit: cover;
+}
+
+.p_name {
+    font-size: 14px;
+    font-family: Monospace;
+}
